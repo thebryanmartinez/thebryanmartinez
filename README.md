@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bryan Martínez</h1>
 <h3 align="center">Full Stack Web Developer</h3>
 
-- 🌱 I’m currently learning **React and React Native**
+- 🌱 I’m currently learning **React and Tailwind CSS**
 
 - 📫 How to reach me **bryanmartz972@gmail.com**
 
