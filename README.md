@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Bryan Martínez</h1>
-🌱 Actualmente estoy aprendiendo **React y Tailwind CSS**
+🌱 Actualmente estoy aprendiendo **React**
 
 📫 Mi correo **bryanmartz972@gmail.com**
 
