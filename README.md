@@ -14,4 +14,4 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bryanmartz972&langs_count=10&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="bryanmartz972" /></p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bryanmartz972&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight&locale=en" alt="bryanmartz972" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bryanmartz972&include_all_commits&count_private=true&show_icons=true&theme=tokyonight&locale=en" alt="bryanmartz972" /></p>
