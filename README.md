@@ -1,7 +1,8 @@
 <h1 align="center">Hola 👋, soy Bryan Martínez</h1>
-🌱 Actualmente estoy aprendiendo **React**
+🌱 Ingeniero en Sistemas de la Computación en camino a ser desarrollador web Full Stack!
 
 📫 Mi correo **bryanmartz972@gmail.com**
+🌐 Mi pagina web **https://bryan-martinez-portfolio.vercel.app/**
 
 <h3 align="left">Conectate conmigo:</h3>
 <p align="left">
