@@ -46,5 +46,5 @@
 
 
 ### ⚙ GitHub Analytics
-[![Bryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=thebryanmartinez&count_private=true&theme=tokyonight&show_icons=true&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
-[![Bryan's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thebryanmartinez&layout=compact&hide=php,smarty&theme=tokyonight&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+[![Bryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=thebryanmartinez&count_private=true&theme=tokyonight&show_icons=true&hide=issues&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Bryan's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thebryanmartinez&layout=compact&hide=php,smarty&theme=tokyonight&langs_count=6&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
