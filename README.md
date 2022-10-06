@@ -49,6 +49,15 @@
 [![Bryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=thebryanmartinez&count_private=true&theme=tokyonight&show_icons=true&hide=issues&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Bryan's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thebryanmartinez&layout=compact&hide=php,smarty&theme=tokyonight&langs_count=6&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<div><img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api?username=thebryanmartinez&count_private=true&theme=tokyonight&show_icons=true&hide=issues&hide_border=true)](https://github.com/anuraghazra/github-readme-stats" /></div>
+<div>
+<a href="https://github.com/thebryanmartinez">
+    <img width=450 height=170 align="center" alt="thebryanmartinez" src="https://github-readme-stats.vercel.app/api?username=thebryanmartinez&count_private=true&theme=tokyonight&show_icons=true&hide=issues&hide_border=true" />
+  </a>
+  <a href="https://github.com/thebryanmartinez">
+    <img align="center" alt="thebryanmartinez" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thebryanmartinez&layout=compact&hide=php,smarty&theme=tokyonight&langs_count=6&hide_border=true" />
+  </a>
+</div>
 
-<div><img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thebryanmartinez&layout=compact&hide=php,smarty&theme=tokyonight&langs_count=6&hide_border=true)](https://github.com/anuraghazra/github-readme-stats" /></div>
+### 🤝🏻 Connect with Me
+[![Gmail](https://img.shields.io/badge/bryanmartz972@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bryanmartz972@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/thebryanmartinez-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thebryanmartinez/)
