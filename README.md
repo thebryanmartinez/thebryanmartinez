@@ -7,7 +7,7 @@
 🎓 I'm a student of Computer Science at the Universidad Catolica de Honduras.  
 🌐 My favorite software to create are websites, web apps and mobile apps.  
 🌱 I'm on track for learning more about Software Testing, Search Engine Optimization and Accessibility.  
-🏢 I'm currently a Junior Software Engineer in [Hello Iconic](https://www.helloiconic.com/). 
+🏢 I'm currently a Junior Software Engineer in [Hello Iconic](https://www.helloiconic.com/).  
 🚀 In my free time I like to work in personal projects with React and take courses for learning and improving.  
 📧 You can connect with me via my email at [bryanmartz972@gmail.com](mailto:bryanmartz972@gmail.com) or in [LinkedIn](https://www.linkedin.com/in/thebryanmartinez/).  
 📄 Please have a look at my [Résume]() and my [Website](https://bryan-martinez-portfolio.vercel.app/) for more details about me. I'm open to feedback and suggestions!  
