@@ -1,7 +1,7 @@
 # Hey, I'm Bryan
 
 
-I'm a **Frontend Software Engineer**, with 3 years of experience, based on Tegucigalpa, Honduras. I'm specialized in React and Next.js. I like to develop side projects and game in my free time. I'm currently a Mid Level Software Engineer at [FullStack Labs](https://www.fullstack.com/). If you are making cool projects, like web development or looking for a frontend developer, let's connect! 
+I'm a **Frontend Software Engineer**, with over 3 years of experience, based on Tegucigalpa, Honduras. I'm specialized in React and Next.js. I like to develop side projects and game in my free time. I'm currently a Software Engineer at [RAVN](https://www.ravn.co/). If you are making cool projects, like web development or looking for a frontend developer, let's connect! 
 
 #### Connect with me!
 
